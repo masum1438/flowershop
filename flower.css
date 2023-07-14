@@ -1,0 +1,42 @@
+
+*{
+    font-family: Lato;
+}
+.head-title{
+    color: #272727;
+    
+    
+}
+.head-para{
+    color: rgba(39, 39, 39, 0.60);
+    
+}
+.btn-primary{
+    display: inline-flex;
+    padding: 10px 35px;
+    align-items: flex-start;
+    gap: 5px;
+    border-radius: 8px;
+background: #E55473;
+ margin: 0px;
+  border-style: none;
+}
+#btn{
+    color: #FFF;
+}
+.header-container{
+    background: rgba(229, 84, 115, 0.10);
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  margin:0px 240px;
+  
+  
+}
+.pic1{
+    width: 335px;
+     height: 400px;
+     margin-bottom: 0px;
+}
