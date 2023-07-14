@@ -128,5 +128,13 @@ background: #E55473;
      height: 320px;
      margin-bottom: 0px;
 }
+.part5{
+    display: flex;
+    align-items: center;
+    margin: 0px 140px 60px 140px;
+}
+.part5-img{
+    margin: 5px;
+}
 
 
