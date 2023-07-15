@@ -1,6 +1,7 @@
 
 *{
     font-family: Lato;
+   
 }
 .head-title{
     color: #272727;
@@ -13,9 +14,9 @@
 }
 .btn-primary{
     display: inline-flex;
-    padding: 10px 35px;
+    padding: 5px 35px;
     align-items: flex-start;
-    gap: 5px;
+    gap: 3px;
     border-radius: 8px;
 background: #E55473;
  margin: 0px;
@@ -129,17 +130,24 @@ background: #E55473;
      height: 320px;
      margin-bottom: 0px;
 }
-.part5{
+
+.container {
     display: flex;
     align-items: center;
-    margin: 0px 140px ;
-}
-.part5-img{
-    margin: 5px;
-}
+    justify-content: space-around;
+    
+  }
+  
+  .image {
+    flex-basis: 20%;
+    
+  }
+
+
 .part6-bg{
     background-image: url("Rectangle\ 9.png");     
     height: 400px;
+    width: 600px;
     background-repeat: no-repeat;
     margin: 10px 140px 0px 140px;
     padding:264px 0px 0px 450px ;
@@ -149,8 +157,8 @@ background: #E55473;
     text-align: center;     
 }
 .part6-inp{
-    width: 700px;
-height: 64px;
+    width: 300px;
+height: 44px;
 border-radius: 8px;
 background: #FFF;
 border: none;
@@ -160,12 +168,12 @@ border: none;
     max-width: 400px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #f2f2f2;   
+     
     border-radius: 5px;
     
   }
   .last-sec{
-    background-color:  #E55473;
+    background-color: #f2f2f2; 
   }
   .contract-form h2 {
     text-align: center;
