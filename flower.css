@@ -131,10 +131,28 @@ background: #E55473;
 .part5{
     display: flex;
     align-items: center;
-    margin: 0px 140px 60px 140px;
+    margin: 0px 140px ;
 }
 .part5-img{
     margin: 5px;
+}
+.part6-bg{
+    background-image: url("Rectangle\ 9.png");     
+    height: 400px;
+    background-repeat: no-repeat;
+    margin: 30px 140px;
+    padding:264px 0px 0px 450px ;
+}
+.part6-bd{
+    display: flex;
+    text-align: center;     
+}
+.part6-inp{
+    width: 700px;
+height: 64px;
+border-radius: 8px;
+background: #FFF;
+border: none;
 }
 
 
